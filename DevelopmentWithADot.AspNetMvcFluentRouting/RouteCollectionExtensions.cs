@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace DevelopmentWithADot.MvcFluentRouting
+namespace DevelopmentWithADot.AspNetMvcFluentRouting
 {
 	public static class RouteCollectionExtensions
 	{
